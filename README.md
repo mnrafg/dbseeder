@@ -1,2 +1,2 @@
-# dbseeder
+# DBSeeder
 Database seeder
